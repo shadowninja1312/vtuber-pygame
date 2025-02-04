@@ -1,0 +1,1 @@
+This is a program in order to scrape the web to find a minecraft skin,projection map it onto a ragdoll physics body and track the users face and movements in order to create a vtuber that is easy to create and use
